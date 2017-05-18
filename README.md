@@ -1,11 +1,11 @@
 # kolla
 Kolla can build and deploy Docker containers.
+
+## Setting up Kolla using Vagrant environment ("all-in-one" deployment)
 ![](kolla7.PNG)
 ![](kolla8.PNG)
 
-## Setting up Kolla using Vagrant environment ("all-in-one" deployment)
-
-## Kolla Notes from Online Resources
+## Kolla Notes
 * Kolla provides production-ready containers and deployment tools for operating OpenStack clouds that are scalable, fast, reliable, and upgradable using community best practices.
 * Kolla provides Docker containers, Ansible playbooks to deploy OpenStack on baremetal or virtual machine, and Kubernetes templates to deploy OpenStack on Kubernetes to meet Kolla's mission.
 * Kolla provides images to deploy the following infrastructure components:
