@@ -1,7 +1,7 @@
 # Kolla
 Kolla can build and deploy Docker containers.
 
-Mission Statement: Kolla provides production-ready containers and deployment tools for operating OpenStack clouds that are scalable, fast, reliable, and upgradable using community best practices
+__**Mission Statement**__: Kolla provides production-ready containers and deployment tools for operating OpenStack clouds that are scalable, fast, reliable, and upgradable using community best practices
 
 ## Setting up Kolla using Vagrant environment ("all-in-one" deployment)
 ![](kolla7.PNG)
