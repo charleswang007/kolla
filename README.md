@@ -1,9 +1,9 @@
 # Kolla
 Kolla can build and deploy Docker containers.
 
-Mission Statement: __**Kolla provides production-ready containers and deployment tools for operating OpenStack clouds that are scalable, fast, reliable, and upgradable using community best practices**__
+Mission Statement: _**Kolla provides production-ready containers and deployment tools for operating OpenStack clouds that are scalable, fast, reliable, and upgradable using community best practices**_
 
-__**OpenStack Kolla Docker Hub**__: [docker.com](https://hub.docker.com/u/kolla/)
+OpenStack Kolla Docker Hub: [docker.com](https://hub.docker.com/u/kolla/)
 
 ## Setting up Kolla using Vagrant environment ("all-in-one" deployment)
 ![](kolla7.PNG)
